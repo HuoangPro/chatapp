@@ -1,0 +1,9 @@
+.vscode
+robotdraw
+.qtc_clangd
+.qmake.stash
+*.o
+moc_*
+robot
+*.pro.user*
+chat
